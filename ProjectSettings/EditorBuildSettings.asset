@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Demo_Teleport.unity
+    guid: bfc10507c2296fb458422f3b4f38ce01
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c2eacb782d891bb42a5a6ccb47b9078d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0dca09e4f16a3e841990a0dc485a37b4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bf36d966057e05a438ecdb8310865291, type: 2}
